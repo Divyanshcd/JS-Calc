@@ -18,7 +18,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/simple-calculator.git
+git clone https://github.com/Divyanshcd/simple-calculator.git
 Navigate to the project directory:
 
 bash
